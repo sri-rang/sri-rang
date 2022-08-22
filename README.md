@@ -2,7 +2,7 @@ Hello. 👋
 
 My name is Sri and I live in Amsterdam. As a hobby, and for a living, I make stuff and build things. Doing this since I was fourteen.
 
-Program Lead — ⛅🌱 Cloud Seed — an open source collaboration between GitLab and Google Cloud.
+Program Lead — ⛅🌱 [Cloud Seed](https://hello.cloudseed.app) — an open source collaboration between GitLab and Google Cloud.
 
 Founding member and staff at GitLab Incubation Engineering, a privilege to collaborate with amazing people and shape our future.
 
